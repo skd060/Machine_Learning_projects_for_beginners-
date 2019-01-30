@@ -1,5 +1,5 @@
-The Iris classification folder contains code in notebook with 98% accuracy. My model contains one input layers with 4 node 
-and 1 hidden layers with 20 nodes and output layers with 3 nodes. The details of module are following: 
+The Iris classification folder contains code in notebook with 98% accuracy. My model contains input layers with 4 node 
+and 1 hidden layers with 20 nodes and output layers with 3 nodes. The details of model are following: 
                     Layer (type)                 Output Shape              Param #   
                     =================================================================
                     dense_189 (Dense)            (None, 20)                100       
@@ -9,7 +9,7 @@ and 1 hidden layers with 20 nodes and output layers with 3 nodes. The details of
                     Total params: 163
                     Trainable params: 163
                     Non-trainable params: 0
-                   
+      
 The IRIS dataset contains 5 Attribute:
     Attribute Information:
      1. sepal length in cm
@@ -26,3 +26,5 @@ contains in strings and so it need to be convert in numerical values first. So i
 dataset sorted in class name order. So it first need shuffling. And then split data set in 100 - 50 for your training and testing data set
 respectivaly. 
 And at last i evaluate my model with testing dataset and it gives 98% acc.
+
+Link for IRIS dataset: http://archive.ics.uci.edu/ml/machine-learning-databases/iris/
