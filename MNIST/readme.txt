@@ -1,1 +1,1 @@
-This folder contains code for mnist classification using ANN
+This folder contains code for mnist classification using ANN and CNN
