@@ -1,2 +1,2 @@
-# Machine_Learning_projects_for_beginners
+# Machine Learning projects for beginners
 This repository contains some projects for beginners 
